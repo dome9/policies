@@ -4,7 +4,8 @@
         {
             "Sid": "CloudGuardReadOnly",
             "Action": [
-                "cognito-identity:DescribeIdentityPool",
+                "athena:GetQueryExecution",
+		"cognito-identity:DescribeIdentityPool",
                 "cognito-idp:DescribeUserPool",
                 "cognito-idp:DescribeRiskConfiguration",
                 "dynamodb:ListTagsOfResource",
