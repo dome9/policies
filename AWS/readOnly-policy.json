@@ -24,6 +24,8 @@
 		"logs:Get*",
 		"mq:DescribeBroker",
 		"mq:ListBrokers",
+		"personalize:DescribeDatasetGroup",
+		"personalize:ListDatasetGroups",
                 "s3:List*",
                 "secretsmanager:DescribeSecret",
                 "sns:ListSubscriptions",
