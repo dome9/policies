@@ -5,6 +5,7 @@
             "Sid": "CloudGuardReadOnly",
             "Action": [
                 "athena:GetQueryExecution",
+		"athena:GetWorkGroup",
 		"cognito-identity:DescribeIdentityPool",
                 "cognito-idp:DescribeUserPool",
                 "cognito-idp:DescribeRiskConfiguration",
