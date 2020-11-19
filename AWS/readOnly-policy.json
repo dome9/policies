@@ -29,6 +29,8 @@
 		"personalize:ListDatasetGroups",
                 "s3:List*",
                 "secretsmanager:DescribeSecret",
+		"sns:GetPlatformApplicationAttributes",
+		"sns:ListPlatformApplications",
                 "sns:ListSubscriptions",
                 "sns:ListTagsForResource",
 		"states:DescribeStateMachine",
