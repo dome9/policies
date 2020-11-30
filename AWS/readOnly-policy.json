@@ -17,6 +17,7 @@
                 "eks:DescribeNodegroup",
 		"es:ListTags",
 		"glue:GetSecurityConfigurations",
+		"Kafka:ListClusters",
                 "kinesis:Describe*",
                 "kinesis:List*",
 		"kinesisvideo:Describe*",
