@@ -1,10 +1,10 @@
 # policies
 CloudGuard Dome9 policies
 
-# Policies Updates:
+# Policies Updates
 ## AWS Read Only Policy
 
-### Added Actions:
+### Added Actions
 #### Dec 06 2020
 - "storagegateway:ListGateways"
 #### Nov 30 2020
