@@ -1,8 +1,12 @@
 # policies
 CloudGuard Dome9 policies
 
-## Policies Updates:
-### AWS Read Only Policy
+# Policies Updates:
+## AWS Read Only Policy
+
+### Added Actions:
+#### Dec 06 2020
+- "storagegateway:ListGateways"
 #### Nov 30 2020
 - "Kafka:ListClusters permissions"
 #### Nov 19 2020 
