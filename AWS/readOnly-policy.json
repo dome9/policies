@@ -39,7 +39,6 @@
 		"sns:ListSubscriptions",
 		"sns:ListTagsForResource",
 		"states:DescribeStateMachine",
-		"storagegateway:ListGateways",
 		"transcribe:Get*",
 		"transcribe:List*",
 		"translate:GetTerminology",
