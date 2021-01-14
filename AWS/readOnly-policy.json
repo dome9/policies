@@ -4,6 +4,7 @@
         {
             "Sid": "CloudGuardReadOnly",
             "Action": [
+		"apigateway:GET",
 		"athena:GetQueryExecution",
 		"athena:GetWorkGroup",
 		"cognito-identity:DescribeIdentityPool",
