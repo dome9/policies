@@ -17,6 +17,8 @@
                 "es:ListTags",
                 "eks:DescribeNodegroup",
                 "eks:ListNodegroups",
+                "eks:ListFargateProfiles",
+                "eks:DescribeFargateProfile",
                 "glue:GetConnections",
                 "glue:GetSecurityConfigurations",
                 "kafka:ListClusters",
