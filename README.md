@@ -1,5 +1,14 @@
+# Moved...
+## This Repo was moved to be part of our unified onboarding
+## It can be reached here https://github.com/dome9/unified-onboarding/tree/Release/cft/generated/templates/policies
+## I will continue to update this repo from time to time but any new content will be delivered first to the new repo.
+
+
 # policies
 CloudGuard Dome9 policies
+
+
+
 
 # Policies Updates
 ## AWS Read Only Policy
